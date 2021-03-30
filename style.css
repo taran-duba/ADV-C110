@@ -23,3 +23,8 @@ ol {
 .item-test img {
     padding: 10px;
 }
+.footer {
+    background-color: red;
+    padding: 10px;
+    border-radius: 20px;
+}
